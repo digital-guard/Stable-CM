@@ -1,1 +1,2 @@
-Digital preservation of Cameroon geometry 
+# Stable-CM
+Digital preservation of Cameroon stable geometry 
